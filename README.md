@@ -1,4 +1,4 @@
-# Microsoft.EntityFrameworkCore.AutoLoad
+# EntityFrameworkCore.AutoLoad
 Auto Load Configurations for EntityFrameworkCore
 
 ### This is an add-in for [EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore/) 
@@ -14,10 +14,11 @@ Allow to use same configurations existing in EntityFramework 6 to auto load conf
 To Install from the Nuget Package Manager Console 
 
 ```sh
-
+PM > Install-Package EntityFrameworkCore.AutoLoad 
+NET CLI - dotnet add package EntityFrameworkCore.AutoLoad
+paket paket add EntityFrameworkCore.AutoLoad
 ```
-Available here 
-
+Available here https://www.nuget.org/packages/EntityFrameworkCore.AutoLoad/#
 
 ## Usage
 
