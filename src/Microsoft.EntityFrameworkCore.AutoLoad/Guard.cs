@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace Microsoft.EntityFrameworkCore.AutoLoad
+﻿namespace Microsoft.EntityFrameworkCore.AutoLoad
 {
+    using System;
+
     public static class Guard
     {
         public static void ArgumentNotNull(string argumentName, object value)
