@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net461;netstandard2.0</TargetFrameworks>
+    <PackageId>Microsoft.EntityFrameworkCore.AutoLoad</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>David Revoledo (Deivit)</Authors>
+    <Description>Auto load your EF core configurations from any assembly</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <Copyright>Copyright 2018 (c) Microsoft.EntityFrameworkCore.AutoLoad is licensed under the MIT License.</Copyright>
+    <PackageTags>AspNetCore EntityFramework EntityFrameworkCore ORM</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.4" />
+  </ItemGroup>
+</Project>
