@@ -34,5 +34,5 @@ Just call it from `OnModelCreating` in `DbContext` class it will read all your c
         }
     }
 ```
-## Sample here [Sample](https://github.com/davidrevoledo/Microsoft.EntityFrameworkCore.AutoLoad/tree/master/src/Microsoft.EntityFrameworkCore.AutoLoad.Usage) 
+## Sample here [Usage](https://github.com/davidrevoledo/Microsoft.EntityFrameworkCore.AutoLoad/tree/master/src/Microsoft.EntityFrameworkCore.AutoLoad.Usage) 
 
