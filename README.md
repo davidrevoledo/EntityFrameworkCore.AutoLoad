@@ -9,6 +9,7 @@ Allow to use same configurations existing in EntityFramework 6 to auto load conf
 [![CodeFactor](https://www.codefactor.io/repository/github/davidrevoledo/entityframeworkcore.autoload/badge)](https://www.codefactor.io/repository/github/davidrevoledo/entityframeworkcore.autoload)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![NuGet](https://img.shields.io/nuget/v/EntityFrameworkCore.AutoLoad.svg)
+![NuGet](https://img.shields.io/nuget/dt/EntityFrameworkCore.AutoLoad.svg)
 
 ### Nuget package
 
