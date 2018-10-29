@@ -1,6 +1,10 @@
 # EntityFrameworkCore.AutoLoad
 Auto Load Configurations for EntityFrameworkCore
 
+<p align="center">
+  <img src="EntityFrameworkCore.AutoLoad.jpg" alt="AutoLoad" width="100"/>
+</p>
+
 ### This is an add-in for [EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore/) 
 
 Allow to use same configurations existing in EntityFramework 6 to auto load configurations.
