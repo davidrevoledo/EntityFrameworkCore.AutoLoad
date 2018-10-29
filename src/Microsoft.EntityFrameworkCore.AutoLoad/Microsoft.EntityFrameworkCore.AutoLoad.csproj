@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>net461;netstandard2.0</TargetFrameworks>
-    <PackageId>Microsoft.EntityFrameworkCore.AutoLoad</PackageId>
+    <PackageId>EntityFrameworkCore.AutoLoad</PackageId>
     <PackageVersion>1.0.0</PackageVersion>
     <Authors>David Revoledo (Deivit)</Authors>
     <Description>Auto load your EF core configurations from any assembly</Description>
