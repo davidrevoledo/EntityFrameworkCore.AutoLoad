@@ -47,3 +47,6 @@ Just call it from `OnModelCreating` in `DbContext` class it will read all your c
 ```
 ## Sample here [Usage](https://github.com/davidrevoledo/Microsoft.EntityFrameworkCore.AutoLoad/tree/master/src/Microsoft.EntityFrameworkCore.AutoLoad.Usage) 
 
+### Icon
+Created by [Mariana Alemanno](https://www.behance.net/mariana-alemanno)
+
