@@ -50,3 +50,4 @@ Just call it from `OnModelCreating` in `DbContext` class it will read all your c
 ### Icon
 Created by [Mariana Alemanno](https://www.behance.net/mariana-alemanno)
 
+Made with ❤ in [DGENIX](https://www.dgenix.com/)
